@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2021.4.2)  1 SEP 2021 12:43
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2021.4.2)  1 SEP 2021 14:47
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -674,36 +674,107 @@ Dictionary: translator-months-dictionary, Language: English
 Dictionary: translator-numbers-dictionary, Language: English 
 ) (/usr/share/texlive/texmf-dist/tex/latex/translator/translator-theorem-dictionary-English.dict
 Dictionary: translator-theorem-dictionary, Language: English 
-) (/home/whiskygrandee/Code/LaTeX Projects/EMSE-Master-1-Presentation/presentation_1.nav) [1
+) (/home/whiskygrandee/Code/LaTeX Projects/EMSE-Master-1-Presentation/presentation_1.nav)
+<images/EMSE_logo.png, id=32, 401.5pt x 401.5pt>
+File: images/EMSE_logo.png Graphic file (type png)
+<use images/EMSE_logo.png>
+Package pdftex.def Info: images/EMSE_logo.png  used on input line 106.
+(pdftex.def)             Requested size: 28.45274pt x 28.45094pt.
+ [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (/home/whiskygrandee/Code/LaTeX Projects/EMSE-Master-1-Presentation/presentation_1.toc) [2
-
-] [3
-
-] [4
-
-] [5
-
-] [6
-
-] [7
-
-] [8
-
-] [9
-
-] [10
-
-] [11
-
-] [12
-
-] [13
-
-] [14
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} </home/whiskygrandee/Code/LaTeX Projects/EMSE-Master-1-Presentation/images/EMSE_logo.png>] (/home/whiskygrandee/Code/LaTeX Projects/EMSE-Master-1-Presentation/presentation_1.toc)
+File: images/EMSE_logo.png Graphic file (type png)
+<use images/EMSE_logo.png>
+Package pdftex.def Info: images/EMSE_logo.png  used on input line 111.
+(pdftex.def)             Requested size: 28.45274pt x 28.45094pt.
+ [2
 
 ]
-<images/SLAM_flowchart.jpeg, id=426, 261.97874pt x 425.48962pt>
+File: images/EMSE_logo.png Graphic file (type png)
+<use images/EMSE_logo.png>
+Package pdftex.def Info: images/EMSE_logo.png  used on input line 120.
+(pdftex.def)             Requested size: 28.45274pt x 28.45094pt.
+ [3
+
+]
+File: images/EMSE_logo.png Graphic file (type png)
+<use images/EMSE_logo.png>
+Package pdftex.def Info: images/EMSE_logo.png  used on input line 131.
+(pdftex.def)             Requested size: 28.45274pt x 28.45094pt.
+ [4
+
+]
+File: images/EMSE_logo.png Graphic file (type png)
+<use images/EMSE_logo.png>
+Package pdftex.def Info: images/EMSE_logo.png  used on input line 142.
+(pdftex.def)             Requested size: 28.45274pt x 28.45094pt.
+ [5
+
+]
+File: images/EMSE_logo.png Graphic file (type png)
+<use images/EMSE_logo.png>
+Package pdftex.def Info: images/EMSE_logo.png  used on input line 152.
+(pdftex.def)             Requested size: 28.45274pt x 28.45094pt.
+ [6
+
+]
+File: images/EMSE_logo.png Graphic file (type png)
+<use images/EMSE_logo.png>
+Package pdftex.def Info: images/EMSE_logo.png  used on input line 163.
+(pdftex.def)             Requested size: 28.45274pt x 28.45094pt.
+ [7
+
+]
+File: images/EMSE_logo.png Graphic file (type png)
+<use images/EMSE_logo.png>
+Package pdftex.def Info: images/EMSE_logo.png  used on input line 176.
+(pdftex.def)             Requested size: 28.45274pt x 28.45094pt.
+ [8
+
+]
+File: images/EMSE_logo.png Graphic file (type png)
+<use images/EMSE_logo.png>
+Package pdftex.def Info: images/EMSE_logo.png  used on input line 185.
+(pdftex.def)             Requested size: 28.45274pt x 28.45094pt.
+ [9
+
+]
+File: images/EMSE_logo.png Graphic file (type png)
+<use images/EMSE_logo.png>
+Package pdftex.def Info: images/EMSE_logo.png  used on input line 196.
+(pdftex.def)             Requested size: 28.45274pt x 28.45094pt.
+ [10
+
+]
+File: images/EMSE_logo.png Graphic file (type png)
+<use images/EMSE_logo.png>
+Package pdftex.def Info: images/EMSE_logo.png  used on input line 202.
+(pdftex.def)             Requested size: 28.45274pt x 28.45094pt.
+ [11
+
+]
+File: images/EMSE_logo.png Graphic file (type png)
+<use images/EMSE_logo.png>
+Package pdftex.def Info: images/EMSE_logo.png  used on input line 211.
+(pdftex.def)             Requested size: 28.45274pt x 28.45094pt.
+ [12
+
+]
+File: images/EMSE_logo.png Graphic file (type png)
+<use images/EMSE_logo.png>
+Package pdftex.def Info: images/EMSE_logo.png  used on input line 221.
+(pdftex.def)             Requested size: 28.45274pt x 28.45094pt.
+ [13
+
+]
+File: images/EMSE_logo.png Graphic file (type png)
+<use images/EMSE_logo.png>
+Package pdftex.def Info: images/EMSE_logo.png  used on input line 229.
+(pdftex.def)             Requested size: 28.45274pt x 28.45094pt.
+ [14
+
+]
+<images/SLAM_flowchart.jpeg, id=427, 261.97874pt x 425.48962pt>
 File: images/SLAM_flowchart.jpeg Graphic file (type jpg)
 <use images/SLAM_flowchart.jpeg>
 Package pdftex.def Info: images/SLAM_flowchart.jpeg  used on input line 234.
@@ -712,52 +783,81 @@ Package pdftex.def Info: images/SLAM_flowchart.jpeg  used on input line 234.
 Overfull \vbox (12.77931pt too high) detected at line 234
  []
 
+File: images/EMSE_logo.png Graphic file (type png)
+<use images/EMSE_logo.png>
+Package pdftex.def Info: images/EMSE_logo.png  used on input line 234.
+(pdftex.def)             Requested size: 28.45274pt x 28.45094pt.
 [15
 
  </home/whiskygrandee/Code/LaTeX Projects/EMSE-Master-1-Presentation/images/SLAM_flowchart.jpeg>]
-<images/SLAM.png, id=453, 778.91pt x 538.01pt>
+<images/SLAM.png, id=454, 778.91pt x 538.01pt>
 File: images/SLAM.png Graphic file (type png)
 <use images/SLAM.png>
 Package pdftex.def Info: images/SLAM.png  used on input line 239.
 (pdftex.def)             Requested size: 273.83728pt x 189.14368pt.
+File: images/EMSE_logo.png Graphic file (type png)
+<use images/EMSE_logo.png>
+Package pdftex.def Info: images/EMSE_logo.png  used on input line 239.
+(pdftex.def)             Requested size: 28.45274pt x 28.45094pt.
  [16
 
- </home/whiskygrandee/Code/LaTeX Projects/EMSE-Master-1-Presentation/images/SLAM.png>] [17
+ </home/whiskygrandee/Code/LaTeX Projects/EMSE-Master-1-Presentation/images/SLAM.png>]
+File: images/EMSE_logo.png Graphic file (type png)
+<use images/EMSE_logo.png>
+Package pdftex.def Info: images/EMSE_logo.png  used on input line 248.
+(pdftex.def)             Requested size: 28.45274pt x 28.45094pt.
+ [17
 
 ]
-<images/grid_map_expansion_02.png, id=509, 303.1325pt x 303.1325pt>
+<images/grid_map_expansion_02.png, id=510, 303.1325pt x 303.1325pt>
 File: images/grid_map_expansion_02.png Graphic file (type png)
 <use images/grid_map_expansion_02.png>
 Package pdftex.def Info: images/grid_map_expansion_02.png  used on input line 253.
 (pdftex.def)             Requested size: 171.14764pt x 171.14992pt.
+File: images/EMSE_logo.png Graphic file (type png)
+<use images/EMSE_logo.png>
+Package pdftex.def Info: images/EMSE_logo.png  used on input line 253.
+(pdftex.def)             Requested size: 28.45274pt x 28.45094pt.
  [18
 
  </home/whiskygrandee/Code/LaTeX Projects/EMSE-Master-1-Presentation/images/grid_map_expansion_02.png>]
-<images/grid_map_expansion_03.png, id=537, 303.1325pt x 303.1325pt>
+<images/grid_map_expansion_03.png, id=538, 303.1325pt x 303.1325pt>
 File: images/grid_map_expansion_03.png Graphic file (type png)
 <use images/grid_map_expansion_03.png>
 Package pdftex.def Info: images/grid_map_expansion_03.png  used on input line 258.
 (pdftex.def)             Requested size: 171.14764pt x 171.14992pt.
+File: images/EMSE_logo.png Graphic file (type png)
+<use images/EMSE_logo.png>
+Package pdftex.def Info: images/EMSE_logo.png  used on input line 258.
+(pdftex.def)             Requested size: 28.45274pt x 28.45094pt.
  [19
 
  </home/whiskygrandee/Code/LaTeX Projects/EMSE-Master-1-Presentation/images/grid_map_expansion_03.png>]
-<images/dwa_planner.png, id=566, 513.92pt x 284.06125pt>
+<images/dwa_planner.png, id=567, 513.92pt x 284.06125pt>
 File: images/dwa_planner.png Graphic file (type png)
 <use images/dwa_planner.png>
 Package pdftex.def Info: images/dwa_planner.png  used on input line 263.
 (pdftex.def)             Requested size: 342.2953pt x 189.20175pt.
+File: images/EMSE_logo.png Graphic file (type png)
+<use images/EMSE_logo.png>
+Package pdftex.def Info: images/EMSE_logo.png  used on input line 263.
+(pdftex.def)             Requested size: 28.45274pt x 28.45094pt.
  [20
 
  </home/whiskygrandee/Code/LaTeX Projects/EMSE-Master-1-Presentation/images/dwa_planner.png>]
-<images/base_god_eye_world.png, id=595, 1859.94875pt x 1052.93375pt>
+<images/base_god_eye_world.png, id=596, 1859.94875pt x 1052.93375pt>
 File: images/base_god_eye_world.png Graphic file (type png)
 <use images/base_god_eye_world.png>
 Package pdftex.def Info: images/base_god_eye_world.png  used on input line 268.
 (pdftex.def)             Requested size: 342.2953pt x 193.76144pt.
+File: images/EMSE_logo.png Graphic file (type png)
+<use images/EMSE_logo.png>
+Package pdftex.def Info: images/EMSE_logo.png  used on input line 268.
+(pdftex.def)             Requested size: 28.45274pt x 28.45094pt.
  [21
 
  </home/whiskygrandee/Code/LaTeX Projects/EMSE-Master-1-Presentation/images/base_god_eye_world.png>]
-<images/RVIZ-Grid.png, id=623, 874.26625pt x 867.24pt>
+<images/RVIZ-Grid.png, id=624, 874.26625pt x 867.24pt>
 File: images/RVIZ-Grid.png Graphic file (type png)
 <use images/RVIZ-Grid.png>
 Package pdftex.def Info: images/RVIZ-Grid.png  used on input line 273.
@@ -766,20 +866,33 @@ Package pdftex.def Info: images/RVIZ-Grid.png  used on input line 273.
 Overfull \vbox (8.60732pt too high) detected at line 273
  []
 
+File: images/EMSE_logo.png Graphic file (type png)
+<use images/EMSE_logo.png>
+Package pdftex.def Info: images/EMSE_logo.png  used on input line 273.
+(pdftex.def)             Requested size: 28.45274pt x 28.45094pt.
 [22
 
  </home/whiskygrandee/Code/LaTeX Projects/EMSE-Master-1-Presentation/images/RVIZ-Grid.png>]
-<images/God-eye.png, id=651, 513.5687pt x 404.26031pt>
+<images/God-eye.png, id=652, 513.5687pt x 404.26031pt>
 File: images/God-eye.png Graphic file (type png)
 <use images/God-eye.png>
 Package pdftex.def Info: images/God-eye.png  used on input line 283.
 (pdftex.def)             Requested size: 239.60567pt x 188.60829pt.
+File: images/EMSE_logo.png Graphic file (type png)
+<use images/EMSE_logo.png>
+Package pdftex.def Info: images/EMSE_logo.png  used on input line 283.
+(pdftex.def)             Requested size: 28.45274pt x 28.45094pt.
  [23
 
- </home/whiskygrandee/Code/LaTeX Projects/EMSE-Master-1-Presentation/images/God-eye.png>] [24
+ </home/whiskygrandee/Code/LaTeX Projects/EMSE-Master-1-Presentation/images/God-eye.png>]
+File: images/EMSE_logo.png Graphic file (type png)
+<use images/EMSE_logo.png>
+Package pdftex.def Info: images/EMSE_logo.png  used on input line 295.
+(pdftex.def)             Requested size: 28.45274pt x 28.45094pt.
+ [24
 
 ]
-<images/obstacle-grid.jpg, id=706, 924.45375pt x 401.5pt>
+<images/obstacle-grid.jpg, id=707, 924.45375pt x 401.5pt>
 File: images/obstacle-grid.jpg Graphic file (type jpg)
 <use images/obstacle-grid.jpg>
 Package pdftex.def Info: images/obstacle-grid.jpg  used on input line 310.
@@ -788,17 +901,46 @@ Package pdftex.def Info: images/obstacle-grid.jpg  used on input line 310.
 Overfull \vbox (9.7902pt too high) detected at line 310
  []
 
+File: images/EMSE_logo.png Graphic file (type png)
+<use images/EMSE_logo.png>
+Package pdftex.def Info: images/EMSE_logo.png  used on input line 310.
+(pdftex.def)             Requested size: 28.45274pt x 28.45094pt.
 [25
 
- </home/whiskygrandee/Code/LaTeX Projects/EMSE-Master-1-Presentation/images/obstacle-grid.jpg>] [26
+ </home/whiskygrandee/Code/LaTeX Projects/EMSE-Master-1-Presentation/images/obstacle-grid.jpg>]
+File: images/EMSE_logo.png Graphic file (type png)
+<use images/EMSE_logo.png>
+Package pdftex.def Info: images/EMSE_logo.png  used on input line 325.
+(pdftex.def)             Requested size: 28.45274pt x 28.45094pt.
+ [26
 
-] [27
+]
+File: images/EMSE_logo.png Graphic file (type png)
+<use images/EMSE_logo.png>
+Package pdftex.def Info: images/EMSE_logo.png  used on input line 331.
+(pdftex.def)             Requested size: 28.45274pt x 28.45094pt.
+ [27
 
-] [28
+]
+File: images/EMSE_logo.png Graphic file (type png)
+<use images/EMSE_logo.png>
+Package pdftex.def Info: images/EMSE_logo.png  used on input line 347.
+(pdftex.def)             Requested size: 28.45274pt x 28.45094pt.
+ [28
 
-] [29
+]
+File: images/EMSE_logo.png Graphic file (type png)
+<use images/EMSE_logo.png>
+Package pdftex.def Info: images/EMSE_logo.png  used on input line 355.
+(pdftex.def)             Requested size: 28.45274pt x 28.45094pt.
+ [29
 
-] [30
+]
+File: images/EMSE_logo.png Graphic file (type png)
+<use images/EMSE_logo.png>
+Package pdftex.def Info: images/EMSE_logo.png  used on input line 371.
+(pdftex.def)             Requested size: 28.45274pt x 28.45094pt.
+ [30
 
  </usr/share/texlive/texmf-dist/tex/latex/beamer/beamericonarticle.pdf>]
 \tf@nav=\write6
@@ -810,27 +952,27 @@ Overfull \vbox (9.7902pt too high) detected at line 310
 \tf@snm=\write8
 \openout8 = `presentation_1.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 374.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 374.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 375.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 375.
  (/home/whiskygrandee/Code/LaTeX Projects/EMSE-Master-1-Presentation/presentation_1.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 374.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 374.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 375.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 375.
 Package rerunfilecheck Info: File `presentation_1.out' has not changed.
 (rerunfilecheck)             Checksum: 68B71AA6A9EB586FBC3989AD6BDD614D;151.
  ) 
 Here is how much of TeX's memory you used:
- 18203 strings out of 481239
- 350548 string characters out of 5920378
- 591025 words of memory out of 5000000
- 32955 multiletter control sequences out of 15000+600000
+ 18210 strings out of 481239
+ 350699 string characters out of 5920378
+ 591063 words of memory out of 5000000
+ 32961 multiletter control sequences out of 15000+600000
  536120 words of font info for 36 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  58i,15n,67p,850b,605s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss17.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi9.pfb>
-Output written on "/home/whiskygrandee/Code/LaTeX Projects/EMSE-Master-1-Presentation/presentation_1.pdf" (30 pages, 926560 bytes).
+Output written on "/home/whiskygrandee/Code/LaTeX Projects/EMSE-Master-1-Presentation/presentation_1.pdf" (30 pages, 949913 bytes).
 PDF statistics:
- 918 PDF objects out of 1000 (max. 8388607)
+ 919 PDF objects out of 1000 (max. 8388607)
  837 compressed objects within 9 object streams
  68 named destinations out of 1000 (max. 500000)
- 142 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 147 words of extra memory for PDF output out of 10000 (max. 10000000)
 
